@@ -1,4 +1,5 @@
-# ML_assignment4
+# Facial-Expression-Recognition
+
 ექსპერიმენტის ლოგები: 
 https://wandb.ai/arevadzemate-free-university-of-tbilisi-/fer2013?nw=nwuserarevadzemate
 
